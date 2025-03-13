@@ -2,7 +2,8 @@
 title: Great New Blog Title
 author:
   name: Hoang Minh Phan
-  email: test@gmail.com
+  email: test_@gmail.com
+  
 description: "Great site about Jekyll on Github page."
 
 # Build setting
