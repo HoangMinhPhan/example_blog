@@ -6,4 +6,4 @@ author:
 description: "Great site about Jekyll on Github page."
 
 # Build setting
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@1e8a445
